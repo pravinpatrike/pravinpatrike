@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Django project**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](#)**
 
