@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Django project**
+- 🔭 I’m currently working on **Node.js project**
 
 - 🌱 currently learning **Data Structures and Algorithms.**
 
