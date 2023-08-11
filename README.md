@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Node.js project**
 
-- 🌱 currently learning **Data Structures and Algorithms.**
+- 🌱 also learning **Data Structures and Algorithms.**
 
 - 👯 looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](#)**
+- 👨‍💻 All of my projects are available at My Portfolio
 
 - 📫 You can reach to me here- **pravinpatrike21@gmail.com**
 <!-- ⚡ Fun fact **I play games and go to the GYM very often.**-->
@@ -43,20 +43,12 @@
     </a>
 </p>
 
-<!-- ## 📊 My Github Stats
+## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/coder-pravin/github-readme-stats"><img alt="Pravin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coder-pravin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    -->
-  <a href="https://github.com/coder-pravin/github-readme-stats"><img alt="Pravin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-pravin&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/> 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/coder-pravin/github-readme-activity-graph"><img alt="Pravin Patrike's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=coder-pravin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    
+  
 
 <br/>
 <br/>
@@ -65,7 +57,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/pravin-patrike/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/heypravin_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/pravin_patrike/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
