@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently working on **Node.js project**
+- 🔭 Currently learning about **Artificial Intelligence and Data Science**
 
-- 🌱 also learning **Data Structures and Algorithms.**
+- 🌱 also learning **Data Structures and Algorithms**.
 
 - 👯 looking to collaborate on **OpenSource Projects**
 
